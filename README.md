@@ -1,4 +1,4 @@
 # intern-project
-	cd internet-project
+	cd intern-project
 	npm install
 	npm run start
